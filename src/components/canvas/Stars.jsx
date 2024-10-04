@@ -4,7 +4,7 @@
 function Stars() {
   return (
     <div>
-      
+      <p>Stars</p>
     </div>
   )
 }

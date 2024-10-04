@@ -3,7 +3,7 @@
 function Earth() {
   return (
     <div>
-      
+      <p>Earth</p>
     </div>
   )
 }

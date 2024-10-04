@@ -3,7 +3,7 @@
 function Feedback() {
   return (
     <div>
-      
+      <p>Feedbacks</p>
     </div>
   )
 }

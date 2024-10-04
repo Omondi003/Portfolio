@@ -3,7 +3,7 @@
 function Computers() {
   return (
     <div>
-      
+      <p>Computers</p>
     </div>
   )
 }
