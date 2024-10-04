@@ -1,3 +1,4 @@
+// FRAMER MOTION ANIMATION FOR THE PROJECT
 export const textVariant = (delay) => {
     return {
       hidden: {

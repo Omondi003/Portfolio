@@ -1,12 +1,6 @@
-// eslint-disable-next-line no-unused-vars
-import React from 'react'
+import EarthCanvas from "./Earth";
+import BallCanvas from "./Ball";
+import ComputersCanvas from "./Computers";
+import StarsCanvas from "./Stars";
 
-function index() {
-  return (
-    <div>
-      
-    </div>
-  )
-}
-
-export default index
+export { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas };

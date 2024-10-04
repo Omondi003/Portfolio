@@ -1,6 +1,6 @@
 // import React from 'react'
 
-function Computers() {
+function Work() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function Computers() {
   )
 }
 
-export default Computers
+export default Work
